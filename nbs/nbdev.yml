@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mov-rec5"
+  site-url: "https://daveramseymusic.github.io/mov-rec5"
+  description: "5th try"
+  repo-branch: main
+  repo-url: "https://github.com/daveramseymusic/mov-rec5"
