@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://daveramseymusic.github.io',
                 'git_url': 'https://github.com/daveramseymusic/mov-rec5',
                 'lib_path': 'mov_rec5'},
-  'syms': {'mov_rec5.awesome': {'mov_rec5.awesome.foo': ('awesome.html#foo', 'mov_rec5/awesome.py')}}}
+  'syms': { 'mov_rec5.awesome': {'mov_rec5.awesome.foo': ('awesome.html#foo', 'mov_rec5/awesome.py')},
+            'mov_rec5.core': {'mov_rec5.core.foo': ('core.html#foo', 'mov_rec5/core.py')}}}
